@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex3023
 - 👀 I’m interested in learning from the community.
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
